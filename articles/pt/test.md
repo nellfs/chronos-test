@@ -1,7 +1,7 @@
-Title: Tesi Article
-Description: Esse artigo é escrito em Português.
+Title: Test Article
+Description: This is a test article written in Portuguese.
 PublicationDate: 2023-06-10
-Authors: nellfs 
+Authors: mirkobrombin
 
 ---
 
