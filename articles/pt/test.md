@@ -1,7 +1,7 @@
-Title: Test Article
-Description: This is a test article written in Portuguese.
+Title: Artigo de Teste
+Description: Esse artigo é um teste escrito em Português.
 PublicationDate: 2023-06-10
-Authors: mirkobrombin
+Authors: nellfs 
 
 ---
 
@@ -14,4 +14,3 @@ Mauris tincidunt non arcu sagittis fermentum. Morbi vitae enim et eros fringilla
 Proin sed nisl magna. Aliquam malesuada et neque at lobortis. Suspendisse id arcu nulla. Curabitur rutrum scelerisque mi dapibus tempor. Phasellus justo tortor, iaculis eget laoreet sit amet, eleifend sit amet nisl. Ut ut neque vel odio viverra porttitor. Curabitur accumsan ullamcorper lectus vel auctor. Integer imperdiet laoreet enim et blandit. Morbi vehicula erat id ex viverra condimentum. Etiam id purus id nulla tincidunt aliquet at quis velit. Quisque fermentum nibh lacus, vitae dictum ante suscipit quis. Maecenas consequat mauris sed ante sodales, viverra ornare massa feugiat. Integer nec fringilla lorem, sed volutpat lectus. Etiam finibus lacinia est, quis mollis erat porttitor at. Pellentesque maximus augue vel lorem mollis blandit.
 
 Donec laoreet lacus ac pellentesque iaculis. Vestibulum elementum sed justo ac ornare. Aenean in mi sit amet justo vehicula semper. In tincidunt lorem eu quam pulvinar facilisis. Cras tincidunt nibh ullamcorper molestie consectetur. Vestibulum scelerisque ante ac cursus commodo. Vivamus vel hendrerit ex.
-
